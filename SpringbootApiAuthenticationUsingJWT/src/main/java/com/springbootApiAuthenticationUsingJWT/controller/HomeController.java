@@ -7,5 +7,5 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @CrossOrigin("*")
 public class HomeController {
-	
+	System.out.println("HomeController ...");
 }
